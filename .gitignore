@@ -1,0 +1,25 @@
+# Build outputs & executables
+*.exe
+*.res
+*.o
+*.obj
+
+# Local UI state & user config
+imgui.ini
+
+# Tool cache & metadata
+.freebuff/
+__pycache__/
+*.pyc
+
+# External reference folders
+effectcraft - vibecoded aftereffects in rust/
+
+# IDE & Editor folders
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
