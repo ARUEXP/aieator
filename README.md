@@ -13,7 +13,7 @@
   <img alt="Platform: Windows" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img alt="Language: C++17" src="https://img.shields.io/badge/language-C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img alt="UI: Dear ImGui" src="https://img.shields.io/badge/UI-Dear%20ImGui%201.91-white?style=flat-square">
-  <img alt="Video: Media Foundation" src="https://img.shields.io/badge/engine-Windows%20Media%20Foundation-blueviolet?style=flat-square">
+  <img alt="Release" src="https://img.shields.io/github/v/release/ARUEXP/aieator?style=flat-square&color=00b894">
   <img alt="Binary: ~3MB Standalone" src="https://img.shields.io/badge/binary-~3.0%20MB%20standalone-00b894?style=flat-square">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
 </p>
@@ -128,6 +128,18 @@ Compiled into a **single ~3.0 MB portable executable**, Aieator requires **zero 
 - **Media Engine:** Native Windows Media Foundation (`mfplat`, `mfreadwrite`, `mfuuid`) for zero-dependency video decoding & encoding.
 - **Image I/O:** `stb_image.h` and `stb_image_write.h`.
 - **Text & Typography:** Windows GDI typography rasterizer supporting true OpenType/TrueType fonts.
+
+---
+
+## ⬇️ Quick Download
+
+Want to use Aieator immediately without compiling?
+
+👉 **[Download the Latest Standalone `aieator.exe` (v1.0.0)](https://github.com/ARUEXP/aieator/releases/latest)**
+
+1. Download `aieator.exe` (~3.0 MB).
+2. Double-click to launch (no installer, no DLLs needed).
+3. Optional: associate `.aie` files by opening any `.aie` project with `aieator.exe`.
 
 ---
 
